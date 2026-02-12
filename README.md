@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Mayank Shaw
 
 <!--
 **mayankshaw7/mayankshaw7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-💡 About Me<br><br>💻 Currently working on AI/ML projects<br><br>🌐 Strong foundation in MERN Stack Development<br><br>🤝 Looking to collaborate on real-world projects to solve impactful problems<br><br>📚 Currently learning and exploring Artificial Intelligence & Machine Learning<br><br>🧠 Passionate about Data Structures & Algorithms<br><br>🏆 Active in Coding Competitions, Hackathons & Competitive Programming<br><br>⚡ Fun Fact: Competitive Programming fascinates me more when it's based on real-world problem statements.
+
+🚀 <b>AI/ML Explorer | Full-Stack MERN Developer | Problem Solver</b><br><br>
+
+💻 Currently building <b>AI/ML-powered solutions</b> and scalable web applications.<br><br>
+
+🌐 Strong foundation in the <b>MERN Stack</b> with focus on clean architecture, performance, and scalability.<br><br>
+
+🤝 Open to collaborating on <b>real-world, impact-driven projects</b> that solve meaningful problems.<br><br>
+
+📚 Actively exploring <b>Artificial Intelligence & Machine Learning</b> to bridge the gap between data and intelligent decision-making.<br><br>
+
+🧠 Deeply passionate about <b>Data Structures & Algorithms</b> — writing optimized and efficient solutions.<br><br>
+
+🏆 Active participant in <b>Hackathons, Coding Competitions & Competitive Programming</b>.<br><br>
+
+⚡ <i>Fun Fact:</i> Competitive Programming fascinates me even more when it mirrors real-world problem statements.<br><br>
+
+---
+
+### 🔥 What Sets Me Apart
+
+✔ Strong problem-solving mindset<br>
+✔ Ability to integrate <b>AI + Web Development</b><br>
+✔ Fast learner, adaptable to emerging technologies<br>
+✔ Thrive in collaborative and fast-paced environments<br>
+
 
 
 ## 🌐 Socials:
