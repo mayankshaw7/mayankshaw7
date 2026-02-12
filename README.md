@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-🚀 <b>AI/ML Explorer | Full-Stack MERN Developer | Problem Solver</b><br><br>
+🚀 <b>AI/ML Explorer | Full-Stack MERN Developer | Problem Solver</b><br>
 
-💻 Currently building <b>AI/ML-powered solutions</b> and scalable web applications.<br><br>
+💻 Currently building <b>AI/ML-powered solutions</b> and scalable web applications.<br>
 
-🌐 Strong foundation in the <b>MERN Stack</b> with focus on clean architecture, performance, and scalability.<br><br>
+🌐 Strong foundation in the <b>MERN Stack</b> with focus on clean architecture, performance, and scalability.<br>
 
-🤝 Open to collaborating on <b>real-world, impact-driven projects</b> that solve meaningful problems.<br><br>
+🤝 Open to collaborating on <b>real-world, impact-driven projects</b> that solve meaningful problems.<br>
 
-📚 Actively exploring <b>Artificial Intelligence & Machine Learning</b> to bridge the gap between data and intelligent decision-making.<br><br>
+📚 Actively exploring <b>Artificial Intelligence & Machine Learning</b> to bridge the gap between data and intelligent decision-making.<br>
 
-🧠 Deeply passionate about <b>Data Structures & Algorithms</b> — writing optimized and efficient solutions.<br><br>
+🧠 Deeply passionate about <b>Data Structures & Algorithms</b> — writing optimized and efficient solutions.<br>
 
-🏆 Active participant in <b>Hackathons, Coding Competitions & Competitive Programming</b>.<br><br>
+🏆 Active participant in <b>Hackathons, Coding Competitions & Competitive Programming</b>.<br>
 
-⚡ <i>Fun Fact:</i> Competitive Programming fascinates me even more when it mirrors real-world problem statements.<br><br>
+⚡ <i>Fun Fact:</i> Competitive Programming fascinates me even more when it mirrors real-world problem statements.<br>
 
 ---
 
