@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mayankshaw7&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=amannitp131&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mayankshaw7&theme=dark&hide_border=false)
 
 
 ### ✍️ Random Dev Quote
