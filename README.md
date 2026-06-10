@@ -56,13 +56,13 @@ Here are some ideas to get you started:
   ---
 ###
 <p align="center">
-  <h2 align="left">Anamika Kumari's Leetcode Stats:</h2>
+  <h2 align="left">Mayank Shaw's Leetcode Stats:</h2>
     <div style="display: flex; justify-content: center; align-items: center;">
        <a href="https://codolio.com/profile/Mayank_shaw" target="_blank">
       <!-- <img style="width: 22%;" src="https://github.com/user-attachments/assets/e08315be-7ac2-499c-9c52-22cbc8143087" alt="Anamicca2221_codolio_card"> -->
        </a>
          <a href="https://leetcode.com/Mayank1500k" target="_blank">
-      <img style="width: 60%;" src="https://leetcard.jacoblin.cool/anamicca?ext=heatmap" alt="LeetCard">
+      <img style="width: 60%;" src="https://leetcard.jacoblin.cool/Mayank1500k?ext=heatmap" alt="LeetCard">
       </a>
 </p>
 
