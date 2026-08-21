@@ -82,3 +82,5 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=mayankshaw7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=mayankshaw7&label=PROFILE+VIEWS&color=blue&style=flat-square)
